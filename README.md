@@ -8,7 +8,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 ## Key Steps
 
-**1. Identifying HR Requirements:**
+**1. Identifying Requirements:**
 
 - Engaged with stakeholders to understand their specific needs and requirements.
 - Conducted interviews or meetings to gather information about the challenges and objectives of the department.
@@ -26,7 +26,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 **3. Assessing Data Suitability:**
 
 - Examined the provided dataset, including dim and fact tables, to assess its suitability for calculating the identified key metrics.
-- Checked data quality, completeness, and relevance to ensure it aligns with HR requirements.
+- Checked data quality, completeness, and relevance to ensure it aligns with requirements.
 
 **4. Understanding Desired Outcomes:**
 
@@ -50,7 +50,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 **8. User Testing and Feedback:**
 
-- Collaborated with HR stakeholders for user testing.
+- Collaborated with stakeholders for user testing.
 - Gathered feedback to refine the dashboard, ensuring it meets the specific needs and preferences of the  team.
 
 **9. Continuous Improvement:**
