@@ -59,3 +59,5 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 - Stayed engaged with the team to address evolving requirements and ensure the dashboard remains a valuable tool for decision-making.
 
 By implementing this approach, the hotel chain can gain actionable insights, optimize operations, and enhance overall business performance.
+
+Download .pbix here [repository](https://github.com/tillyshan/Revenue-Insights-Hospitality-Domain/blob/main/revenue_insights.pbix).
